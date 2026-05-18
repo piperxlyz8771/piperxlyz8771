@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**piperxlyz8771/piperxlyz8771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **piperxlyz8771**, a test automation engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐛 Bug hunter by night
+- 📫 Reach me through GitHub
+
+## Tech
+
+`Lua` `PHP` `gRPC` `Redis`
+
+---
+
+_Small prs forever._
